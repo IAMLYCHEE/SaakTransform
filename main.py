@@ -1,6 +1,6 @@
 '''
 @ author: Jiali Duan
-@ greatly modified by lychee
+@ greatly modified by li yicheng
 @ function: Saak Transform
 @ Date: 10/29/2017
 @ To do: parallelization
